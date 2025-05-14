@@ -35,7 +35,7 @@ const boardGameFacts = [
   {
     title: "Cartas récord",
     content:
-      "Magic: The Gathering está reconocido por el Guinness World Records como el juego de cartas coleccionables con más cartas únicas, con más de 20,000 cartas diferentes publicadas desde 1993.",
+      "Magic está reconocido por el Guinness World Records como el juego de cartas coleccionables con más cartas únicas, con más de 20,000 cartas diferentes publicadas desde 1993.",
     icon: Trophy,
   },
   {

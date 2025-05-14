@@ -69,7 +69,7 @@ export const blogPosts = [
       
       Bienestar de los jugadores: Las organizaciones están invirtiendo significativamente en el bienestar físico y mental de sus participantes. Áreas de descanso, hidratación adecuada y pausas programadas son ahora estándar en torneos de larga duración.
       
-      Diversificación de juegos: Mientras que antes los torneos se centraban en unos pocos juegos clásicos como ajedrez o Magic: The Gathering, ahora vemos circuitos competitivos para una amplia variedad de juegos modernos como Wingspan, Terraforming Mars o Gloomhaven.
+      Diversificación de juegos: Mientras que antes los torneos se centraban en unos pocos juegos clásicos como ajedrez o Magic, ahora vemos circuitos competitivos para una amplia variedad de juegos modernos como Wingspan, Terraforming Mars o Gloomhaven.
       
       Estas tendencias señalan un futuro donde los torneos de juegos de mesa no solo crecen en popularidad sino también en madurez como comunidad. La profesionalización continúa a todos los niveles, desde la organización de eventos hasta la producción de transmisiones.
     `,

@@ -168,12 +168,12 @@ export const memorableStories = [
   {
     id: 3,
     title: "El Mazo de los 5 Colores",
-    game: "Magic: The Gathering",
+    game: "Magic",
     year: 2019,
     player: "Javier Domínguez",
     excerpt: "La estrategia que desafió todos los paradigmas y llevó a un español a la cima del Pro Tour de Magic.",
     content: `
-      El Pro Tour de Magic: The Gathering de Kyoto 2019 ya era histórico por ser el 25 aniversario del circuito profesional. Pero lo que nadie esperaba era que se convertiría en el escenario de una de las decisiones estratégicas más audaces en la historia del juego.
+      El Pro Tour de Magic de Kyoto 2019 ya era histórico por ser el 25 aniversario del circuito profesional. Pero lo que nadie esperaba era que se convertiría en el escenario de una de las decisiones estratégicas más audaces en la historia del juego.
 
       Javier Domínguez, jugador español ya respetado pero sin un título de Pro Tour, sorprendió a todos al registrar un mazo que utilizaba las cinco colores de Magic en un formato dominado por estrategias de dos colores como máximo. Los expertos y comentaristas consideraron la decisión como suicida, prediciendo que los problemas de consistencia en la base de maná lo eliminarían en las primeras rondas.
 
@@ -191,7 +191,7 @@ export const memorableStories = [
     `,
     image: "/6beac6e384eaf5c14c7e32e78b26e448.jpg",
     author: "Miguel Rodríguez",
-    tags: ["Magic: The Gathering", "Pro Tour", "Estrategias innovadoras", "Javier Domínguez"],
+    tags: [ "Pro Tour", "Estrategias innovadoras", "Javier Domínguez"],
   },
   {
     id: 4,
